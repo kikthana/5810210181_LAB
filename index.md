@@ -34,7 +34,7 @@
       <p>Responsive web design uses only HTML and CSS.</p>
     </div>
     <div class="media-right">
-      <img src="C:\Users\PC\Desktop\img\won.jpg" class="media-object" style="width:60px">
+      <img src="Desktop/img/won.jpg" class="media-object" style="width:60px">
     </div>
   </div>
 </div>
