@@ -28,7 +28,7 @@
       <span class="glyphicon glyphicon-user"></span>
     </div>
     <div class="media-body">
-      <h4 class="media-heading">Nadach <small><i>Posted on February 19, 2018</i></small></h4>
+      <h4 class="media-heading">Nadach <small><i>Posted on October 19, 2018</i></small></h4>
       <p>Responsive web design makes your web page look good on all devices.</p>
       
       <!-- Nested media object -->
@@ -37,7 +37,7 @@
           <span class="glyphicon glyphicon-user"></span>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Yaya <small><i>Posted on February 20, 2018</i></small></h4>
+          <h4 class="media-heading">Yaya <small><i>Posted on October 20, 2018</i></small></h4>
           <p>Responsive web design uses only HTML and CSS.</p>
 
           <!-- Nested media object -->
@@ -46,7 +46,7 @@
              <span class="glyphicon glyphicon-user"></span>
             </div>
             <div class="media-body">
-              <h4 class="media-heading">Jamema <small><i>Posted on February 21, 2018</i></small></h4>
+              <h4 class="media-heading">Jamema <small><i>Posted on October 21, 2018</i></small></h4>
               <p>Responsive web design is not a program or a JavaScript.</p>
             </div>
           </div>
