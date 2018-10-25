@@ -23,14 +23,14 @@
 </nav>
 
 <div class="container">
-  <h2What is Responsive Web Design?</h2>
+  <h2>What is Responsive Web Design?</h2>
   <p>Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):</p><br>
   <div class="media">
     <div class="media-left">
       <img src="img_avatar1.png" class="media-object" style="width:45px">
     </div>
     <div class="media-body">
-      <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
+      <h4 class="media-heading">Nadach <small><i>Posted on February 19, 2018</i></small></h4>
       <p>Responsive web design makes your web page look good on all devices.</p>
       
       <!-- Nested media object -->
@@ -39,7 +39,7 @@
           <img src="img_avatar2.png" class="media-object" style="width:45px">
         </div>
         <div class="media-body">
-          <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
+          <h4 class="media-heading">Yaya <small><i>Posted on February 20, 2018</i></small></h4>
           <p>Responsive web design uses only HTML and CSS.</p>
 
           <!-- Nested media object -->
@@ -48,7 +48,7 @@
               <img src="img_avatar3.png" class="media-object" style="width:45px">
             </div>
             <div class="media-body">
-              <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
+              <h4 class="media-heading">Jamema <small><i>Posted on February 21, 2018</i></small></h4>
               <p>Responsive web design is not a program or a JavaScript.</p>
             </div>
           </div>
