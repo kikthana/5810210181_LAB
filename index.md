@@ -9,6 +9,18 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
+  
+  <nav id="site-nav">
+<ul>
+   <li><a href="#home" class="active">Home</a> </li>
+   <li><a href="#news">News</a></li>
+   <li><a href="#contact">Contact</a></li>
+   <li><a href="#about">About</a></li>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</ul>
+</nav>
 
 <div class="container">
   <h2>What is Responsive Web Design?</h2>
@@ -37,7 +49,7 @@
       <p>Responsive web design uses only HTML and CSS.</p>
     </div>
     <div class="media-right">
-       <a href="#">
+      <a href="#">
           <span class="glyphicon glyphicon-user"></span>
         </a>
 <!--       <img src="img_avatar1.png" class="media-object" style="width:60px"> -->
