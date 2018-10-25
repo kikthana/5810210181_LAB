@@ -23,15 +23,15 @@
 </nav>
 
 <div class="container">
-  <h2>Nested Media Objects</h2>
-  <p>Media objects can also be nested (a media object inside a media object):</p><br>
+  <h2What is Responsive Web Design?</h2>
+  <p>Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):</p><br>
   <div class="media">
     <div class="media-left">
       <img src="img_avatar1.png" class="media-object" style="width:45px">
     </div>
     <div class="media-body">
       <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>Responsive web design makes your web page look good on all devices.</p>
       
       <!-- Nested media object -->
       <div class="media">
@@ -40,7 +40,7 @@
         </div>
         <div class="media-body">
           <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <p>Responsive web design uses only HTML and CSS.</p>
 
           <!-- Nested media object -->
           <div class="media">
@@ -49,7 +49,7 @@
             </div>
             <div class="media-body">
               <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p>Responsive web design is not a program or a JavaScript.</p>
             </div>
           </div>
           
