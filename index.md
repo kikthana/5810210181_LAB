@@ -18,7 +18,6 @@
   <!-- Left-aligned media object -->
   <div class="media">
     <div class="media-left">
-      <p>User icon as a link:
         <a href="#">
           <span class="glyphicon glyphicon-user"></span>
         </a>
