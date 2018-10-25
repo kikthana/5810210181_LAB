@@ -9,6 +9,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
+  
   <nav id="site-nav">
 <ul>
    <li><a href="#home" class="active">Home</a> </li>
@@ -20,25 +21,44 @@
   </a>
 </ul>
 </nav>
-  
+
 <div class="container">
-  <h2>What is Responsive Web Design?</h2>
-  <p>Use the "media-left" class to left-align a media object. Text that should appear next to the image, is placed inside a container with class="media-body".</p>
-  <p>Tip: Use the "media-right" class to right-align the media object.</p><br>
-  
-  <!-- Left-aligned media object -->
+  <h2>Nested Media Objects</h2>
+  <p>Media objects can also be nested (a media object inside a media object):</p><br>
   <div class="media">
     <div class="media-left">
-      <a href="#">
-          <span class="glyphicon glyphicon-user"></span>
-      </a>
-<!--       <img src="img_avatar1.png" class="media-object" style="width:60px"> -->
+      <img src="img_avatar1.png" class="media-object" style="width:45px">
     </div>
     <div class="media-body">
-      <h4 class="media-heading">Yaya</h4>
-      <p>Responsive web design makes your web page look good on all devices.</p>
+      <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      
+      <!-- Nested media object -->
+      <div class="media">
+        <div class="media-left">
+          <img src="img_avatar2.png" class="media-object" style="width:45px">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+          <!-- Nested media object -->
+          <div class="media">
+            <div class="media-left">
+              <img src="img_avatar3.png" class="media-object" style="width:45px">
+            </div>
+            <div class="media-body">
+              <h4 class="media-heading">John Doe <small><i>Posted on February 19, 2016</i></small></h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      
     </div>
   </div>
-  <hr>
-  </body>
+</div>
+
+</body>
 </html>
