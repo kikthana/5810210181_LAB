@@ -24,6 +24,7 @@
   <p>Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):</p><br>
   <div class="media">
     <div class="media-left">
+      <span class="glyphicon glyphicon-user"></span>
       <img src="img_avatar1.png" class="media-object" style="width:45px">
     </div>
     <div class="media-body">
