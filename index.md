@@ -21,7 +21,7 @@
 
 <div class="container">
   <h2>What is Responsive Web Design?</h2>
-  <p>Responsive Web Design is about using HTML and CSS to automatically resize,
+  <p>Responsive Web Design is about using HTML and CSS to automatically resize, <br>
     hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):</p><br>
   <div class="media">
     <div class="media-left">
