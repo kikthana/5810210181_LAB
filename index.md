@@ -1,4 +1,3 @@
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,9 +9,10 @@
   
   <nav id="site-nav">
 <ul>
-   <li><a href="#home" class="active">Home</a> </li>
+  <h3> <li><a href="#home" class="active">Home</a></li>
    
-   <li><a href="about.html">About</a></li>
+   <li><a href="about.html">About</a></li></h3>
+   
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
