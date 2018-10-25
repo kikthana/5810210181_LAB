@@ -21,7 +21,6 @@
         <a href="#">
           <span class="glyphicon glyphicon-user"></span>
         </a>
-      </p>
 <!--       <img src="img_avatar1.png" class="media-object" style="width:60px"> -->
     </div>
     <div class="media-body">
@@ -38,6 +37,9 @@
       <p>Responsive web design uses only HTML and CSS.</p>
     </div>
     <div class="media-right">
+       <a href="#">
+          <span class="glyphicon glyphicon-user"></span>
+        </a>
       <img src="img_avatar1.png" class="media-object" style="width:60px">
     </div>
   </div>
