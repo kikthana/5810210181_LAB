@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -40,7 +40,7 @@
        <a href="#">
           <span class="glyphicon glyphicon-user"></span>
         </a>
-      <img src="img_avatar1.png" class="media-object" style="width:60px">
+<!--       <img src="img_avatar1.png" class="media-object" style="width:60px"> -->
     </div>
   </div>
 </div>
