@@ -20,9 +20,9 @@
 </nav>
 
 <div class="container">
-  <h2>What is Responsive Web Design?</h2>
+ <center> <h2>What is Responsive Web Design?</h2>
   <p>Responsive Web Design is about using HTML and CSS to automatically resize, <br>
-    hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):</p><br>
+    hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):</p><br></center>
   <div class="media">
     <div class="media-left">
       <span class="glyphicon glyphicon-user"></span>
