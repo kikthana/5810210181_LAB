@@ -18,7 +18,7 @@
   <!-- Left-aligned media object -->
   <div class="media">
     <div class="media-left">
-      <img src="si.jpg" class="media-object" style="width:60px">
+      <img src="img/si.jpg" class="media-object" style="width:60px">
     </div>
     <div class="media-body">
       <h4 class="media-heading">Nadach</h4>
@@ -34,7 +34,7 @@
       <p>Responsive web design uses only HTML and CSS.</p>
     </div>
     <div class="media-right">
-      <img src="img_avatar1.png" class="media-object" style="width:60px">
+      <img src="C:\Users\PC\Desktop\img\won.jpg" class="media-object" style="width:60px">
     </div>
   </div>
 </div>
